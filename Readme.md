@@ -1,4 +1,4 @@
-# nodejs:
+# Nodejs:
 ``` css
 Requests: 0 (0%), requests per second: 0, mean latency: 0 ms
 Requests: 12906 (13%), requests per second: 2585, mean latency: 38.6 ms
@@ -28,7 +28,7 @@ Percentage of the requests served within a certain time
  100%      79 ms (longest request)
 ```
 
-# nginx
+# Nginx
 
 ```css
 Requests: 0 (0%), requests per second: 0, mean latency: 0 ms
@@ -54,7 +54,7 @@ Percentage of the requests served within a certain time
   99%      49 ms
  100%      83 ms (longest request)
 ```
-# expressjs
+# Expressjs
 ```css
 Requests: 0 (0%), requests per second: 0, mean latency: 0 ms
 Requests: 11886 (12%), requests per second: 2380, mean latency: 42 ms
